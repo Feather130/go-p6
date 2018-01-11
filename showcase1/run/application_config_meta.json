@@ -1,0 +1,225 @@
+{
+  "keys": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\config\\config.default.js",
+  "static": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\config\\config.default.js",
+  "onerror": {
+    "errorPageUrl": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-multipart\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "view": {
+    "root": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+  "name": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "version": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "description": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "main": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "test": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+      "dev": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+      "url": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js"
+    },
+    "keywords": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "author": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "license": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "bugs": {
+      "url": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js"
+    },
+    "homepage": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "devDependencies": {
+      "egg": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+      "egg-static": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "strict": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+      "depth": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "env": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "level": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxAge": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "coreMiddleware": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+      "port": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "responseTimeout": "C:\\Users\\sym\\Desktop\\go p6\\showcase1\\node_modules\\egg\\config\\config.default.js"
+  }
+}
